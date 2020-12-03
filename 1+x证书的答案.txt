@@ -1,0 +1,44 @@
+1-5CBCBA
+6-10DBAAB
+11-15CBCAA
+16-18ABD
+19,A
+     B创建空白对象
+     C创建空白数组
+     D正则表达式
+20.A虽然null的类型是object但是null不具有任何对象的特性（f）
+   B他们不属于同一数据类型（f）
+   C（t）
+   D因为nan是一个范围自身不能等于自身
+21D
+22-27DCBCDC
+28A前添加ele1元素
+  B给box类后添加ele元素
+  C给box类后添加ele元素（f）
+  D给ele2后添加ele1元素
+29,30.A,C
+31-36.CCDCBD
+多选
+1-5
+AB,ACDE,BCD,AC,AC
+6-10
+AB,AD,BCD,ACD,ABCD
+11-15
+AC,ABCD,ABCD,ABC,BCD
+判断
+1-9
+错，对，对，错，错，对，对，对，对
+填空
+3，ragb{0.0.0.0.5}，15，NaN，
+@keyframes whh
+{
+0%{background:red}
+25%{background:red}
+50%{background:yellow}
+100%{background:yellow}
+},
+.box {width:100px;height:50px;margin:50px;auto;background-color:red;transition:3s}
+.box :hover{background-color:yellow;height:200px;width:200px}
+<div calss="box"></div>
+.clearfloat{clear:both}
+width:100px; height:100px; background:red; border-radius:50% -moz-border-ralius:50%;  -webkit-border-radius:50%;
